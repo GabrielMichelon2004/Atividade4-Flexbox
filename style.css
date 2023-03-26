@@ -1,0 +1,110 @@
+.container01{
+    background-color: rgba(128, 128, 128, 0.568);
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+   
+}
+
+.container02{
+    background-color: rgba(128, 128, 128, 0.568);
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    
+}
+
+.container03{
+    background-color: rgba(128, 128, 128, 0.568);
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+   justify-content: center;
+   
+}
+
+.container04{
+    background-color: rgba(128, 128, 128, 0.568);
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+   
+}
+
+.container05{
+    background-color: rgba(128, 128, 128, 0.568);
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+   justify-content: space-around;
+   
+}
+
+.container06{
+    background-color: rgba(128, 128, 128, 0.568);
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+   justify-content: space-evenly;
+   
+}
+
+.item01{
+    background-color: aqua;
+    height: 40px;
+    width: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+   
+}
+.item02{
+    background-color: blue;
+    height: 40px;
+    width: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+}
+.item03{
+    background-color: pink;
+    height: 40px;
+    width: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+.item04{
+    background-color: yellow;
+    height: 40px;
+    width: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.container-exercicioB{
+background-color: rgba(128, 128, 128, 0.568);
+height: 160px;
+display: flex;
+flex-direction: column-reverse;
+justify-content: start;
+}
+
+.container-desafio{
+    background-color: rgba(128, 128, 128, 0.568);
+    height: 40px;
+    display: flex;
+    flex-direction:row-reverse;
+    justify-content: start;
+}
